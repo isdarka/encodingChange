@@ -1,11 +1,12 @@
 #/bin/bash
-#####################################################
-#####	    Run in file to convert Encoding	#####
-#####	    					#####
-#####	Search  (*.css *.php *.js *.tpl)	#####
-#####	in the directory where you run 		#####
-#####	the script				#####
-#####################################################
+#######################################################
+#####	    Run in file to convert Encoding	  #####
+#####	    					  #####
+#####	Search  (*.css *.php *.js *.tpl)	  #####
+#####	in the directory where you run 		  #####
+#####	the script				  #####
+#####	https://github.com/isdarka/encodingChange #####
+#######################################################
 
 
 #Encoding of a file.
